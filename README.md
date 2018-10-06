@@ -11,7 +11,7 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
 
 <ul><h3>Trilhas</h3>
 <ol>👶 Trilha iniciante(não programadores python/R)</ol>
-<ol>trilha intermediários(programadores python/R ou BI)</ol></ul>
+<ol>🧗‍♂ Trilha intermediários(programadores python/R ou BI)</ol></ul>
 
 <h3>Cursos gratuitos</h3> 
 <ul><h4>🔴DSA</h4>
