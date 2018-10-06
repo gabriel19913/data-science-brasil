@@ -14,8 +14,8 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
 <ol>👨‍💼 Trilha intermediários(programadores python/R ou BI)</ol></ul>
 
 <h3>Cursos gratuitos</h3> 
-<ul><h4>🔴DSA</h4>
-<ol><a href="https://www.datascienceacademy.com.br/course?courseid=python-fundamentos">⚫Curso Gratuito de Python Fundamentos para Análise de Dados (Carga Horária: 54 Horas):</a></ol>
+<h4>🔴DSA</h4>
+<ul><ol><a href="https://www.datascienceacademy.com.br/course?courseid=python-fundamentos">⚫Curso Gratuito de Python Fundamentos para Análise de Dados (Carga Horária: 54 Horas):</a></ol>
 <ol><a href="https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados">⚫Curso Gratuito de Introdução a Ciência de Dados (Carga Horária: 8 Horas):</a></ol>
 <ol><a href="https://www.datascienceacademy.com.br/course?courseid=inteligencia-artificial-fundamentos">⚫Curso Gratuito de Fundamentos de Inteligência Artificial (Carga Horária: 8 Horas)</a></ol>
 <ol><a href="https://www.datascienceacademy.com.br/course?courseid=microsoft-power-bi-para-data-science">⚫Curso Gratuito de Microsoft Power BI (Carga Horária: 54 Horas)</a></ol>
