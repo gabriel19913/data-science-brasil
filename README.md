@@ -70,7 +70,7 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
   <h3 id="intermed">👨‍💼 Trilha intermediários(programadores python/R ou BI)</h3>
   <ol>
     <b><li>🔴Inteligência Artificial:</li></b>
-    <ol><a href="  https://www.datascienceacademy.com.br/course?courseid=inteligencia-artificial-fundamentos">⚫Fundamentos IA por DSA</a></ol>
+    <ol><a href="https://www.datascienceacademy.com.br/course?courseid=inteligencia-artificial-fundamentos">⚫Fundamentos IA por DSA</a></ol>
     <ol><a href="https://br.udacity.com/course/intro-to-artificial-intelligence--cs271">⚫Introdução a IA por Udacity</ol></a>
     <ol><a href="https://br.udacity.com/course/artificial-intelligence--ud954">⚫Inteligência Artificial</ol></a>
     <b><li>🔴Machine Learning:</li></b>
