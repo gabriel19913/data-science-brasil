@@ -10,8 +10,8 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
 <a href="http://www.somosweber.com.br">🔵Fórum(breve)</a><br>
 
 <h3>Trilhas</h3>
-<ul><ol>👶 Trilha iniciante(não programadores python/R)</ol>
-<ol>👨‍💼 Trilha intermediários(programadores python/R ou BI)</ol></ul>
+<ul><ol><a href="#iniciante">👶 Trilha iniciante(não programadores python/R)</ol></a>
+<ol><a href="#intermed">👨‍💼 Trilha intermediários(programadores python/R ou BI)</ol></ul></a>
 
 <h3>Cursos gratuitos</h3> 
 <h4>🔴DSA</h4>
@@ -50,3 +50,12 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
 <ol><a href="https://br.udacity.com/course/intro-to-deive-statistics--ud827">⚫Udacity Introdução à Estatística Descritiva</a></ol>
 <ol><a href="https://br.udacity.com/course/intro-to-inferential-statistics--ud201">⚫Udacity Introdução à Estatística Inferencial</a></ol>
 <ol><a href="https://br.udacity.com/course/statistics--st095">⚫Udacity Estatística</a></ol></h4></ul>
+
+<h3>👶 Trilha iniciante(não programadores python/R)</h3>
+<ol>
+  <b><li>Comece com BI: os dados lhe dirão O QUE ACONTECEU</li></b>
+  <ol><a href="https://www.datascienceacademy.com.br/course?courseid=microsoft-power-bi-para-data-science">⚫Curso Gratuito de Microsoft   Power BI(Carga Horária: 54 Horas)</a></ol>
+  <b><li>Em seguida, comece com Python não focado em Data Science:</li></b>
+  <ol><a href="https://solyd.com.br/treinamentos/python-basico">⚫Python Básico(Carga Horária: 04 Horas)</a></ol>
+
+
