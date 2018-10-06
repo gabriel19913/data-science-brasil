@@ -5,7 +5,7 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
 ![](https://media1.tenor.com/images/07988c63e7f4730bd4f5ac57d42440c5/tenor.gif?itemid=11287448)
 
 <a href="https://chat.whatsapp.com/DpLXSpheuiDCXvArYli9pa">🔵Grupo Whatsapp</a><br>
-<a href="https://join.slack.com/t/datasciencebrazil/shared_invite/enQtNDQ5NTU1ODk5NTA3LTJiYzNmNWI1YTlkODY5Y2ZiZmIyYTQ4ZjYyNTQ1MThlNTk4ZGRhZTAwOGFmOTQyYWYxZDAyNTI4YTNhM2FiYjg">🔵Grupo Telegram</a><br>
+<a href="https://t.me/joinchat/IzBiXA0tBoe3sR7lc3AJ9A">🔵Grupo Telegram</a><br>
 <a href="https://join.slack.com/t/datasciencebrazil/shared_invite/enQtNDQ5NTU1ODk5NTA3LTJiYzNmNWI1YTlkODY5Y2ZiZmIyYTQ4ZjYyNTQ1MThlNTk4ZGRhZTAwOGFmOTQyYWYxZDAyNTI4YTNhM2FiYjg">🔵Slack</a><br>
 <a href="http://www.somosweber.com.br">🔵Fórum(breve)</a><br>
 
