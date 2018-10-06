@@ -19,7 +19,7 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
 <ol><a href="https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados">⚫Curso Gratuito de Introdução a Ciência de Dados (Carga Horária: 8 Horas):</a></ol>
 <ol><a href="https://www.datascienceacademy.com.br/course?courseid=inteligencia-artificial-fundamentos">⚫Curso Gratuito de Fundamentos de Inteligência Artificial (Carga Horária: 8 Horas)</a></ol>
 <ol><a href="https://www.datascienceacademy.com.br/course?courseid=microsoft-power-bi-para-data-science">⚫Curso Gratuito de Microsoft Power BI (Carga Horária: 54 Horas)</a></ol>
-<ol><a href="https://www.datascienceacademy.com.br/course?courseid=big-data-fundamentos">⚫Curso Gratuito de Fundamentos de Big Data (Carga Horária: 8 Horas)</a></ol>
+<ol><a href="https://www.datascienceacademy.com.br/course?courseid=big-data-fundamentos">⚫Curso Gratuito de Fundamentos de Big Data (Carga Horária: 8 Horas)</a></ol></ul>
 <h4>🔴Udacity</h4>
 <ul><ol><a href="https://br.udacity.com/course/how-to-use-git-and-github--ud775">⚫como usar  git e github por UDACITY</a></ol>
 <ol><a href="https://br.udacity.com/course/intro-to-data-science--ud359">⚫Introdução à Ciência de Dados</a></ol>
