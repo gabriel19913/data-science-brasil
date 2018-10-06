@@ -42,6 +42,13 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
 ">⚫Análise de dados e visualização</a></ol>
 <ol><a href="https://br.udacity.com/course/deep-learning--ud730
 ">⚫Deep Learning by Google</a></ol></ul>
+<h4>🔴Coursera</h4>
+<ol><strong>Applied Data Science with Python Specialization:</strong></ol>
+<ol><a href="https://www.coursera.org/learn/python-data-analysis">⚫Introduction to Data Science in Python</a></ol>
+<ol><a href="https://www.coursera.org/learn/python-plotting">⚫Applied Plotting, Charting & Data Representation in Python</a></ol>
+<ol><a href="https://www.coursera.org/learn/python-machine-learning">⚫Applied Machine Learning in Python</a></ol>
+<ol><a href="https://www.coursera.org/learn/python-text-mining">⚫Applied Text Mining in Python</a></ol>
+<ol><a href="https://www.coursera.org/learn/python-social-network-analysis">⚫Applied Social Network Analysis in Python</a></ol>
   
 <h3>🎲 PROBABILIDADE/ESTATISTICA</h3>
 <ul><ol><a href="https://veduca.org/p/probabilidade-e-estatistica">⚫VEDUCA</a></ol>
