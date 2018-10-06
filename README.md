@@ -51,7 +51,7 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
 <ol><a href="https://br.udacity.com/course/intro-to-inferential-statistics--ud201">⚫Udacity Introdução à Estatística Inferencial</a></ol>
 <ol><a href="https://br.udacity.com/course/statistics--st095">⚫Udacity Estatística</a></ol></h4></ul>
 
-<h3 class="iniciante">👶 Trilha iniciante(não programadores python/R)</h3>
+<h3 id="iniciante">👶 Trilha iniciante(não programadores python/R)</h3>
 <ol>
   <b><li>Comece com BI: os dados lhe dirão O QUE ACONTECEU</li></b>
   <ol><a href="https://www.datascienceacademy.com.br/course?courseid=microsoft-power-bi-para-data-science">⚫Curso Gratuito de Microsoft   Power BI(Carga Horária: 54 Horas)</a></ol>
