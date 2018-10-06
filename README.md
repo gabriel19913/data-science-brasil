@@ -51,7 +51,7 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
 <ol><a href="https://br.udacity.com/course/intro-to-inferential-statistics--ud201">⚫Udacity Introdução à Estatística Inferencial</a></ol>
 <ol><a href="https://br.udacity.com/course/statistics--st095">⚫Udacity Estatística</a></ol></h4></ul>
 
-<h3>👶 Trilha iniciante(não programadores python/R)</h3>
+<h3 class="iniciante">👶 Trilha iniciante(não programadores python/R)</h3>
 <ol>
   <b><li>Comece com BI: os dados lhe dirão O QUE ACONTECEU</li></b>
   <ol><a href="https://www.datascienceacademy.com.br/course?courseid=microsoft-power-bi-para-data-science">⚫Curso Gratuito de Microsoft   Power BI(Carga Horária: 54 Horas)</a></ol>
@@ -60,5 +60,9 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
   <b><li>BI, Estatística/Probabilidade, Python e R introduzidos! Agora, banco de dados:</li></b>
   <ol><a href="https://br.udacity.com/course/sql-for-data-analysis--ud198">⚫SQL para análise de dados</a></ol>
   <ol><a href="https://br.udacity.com/course/data-wrangling-with-mongodb--ud032">⚫Tratamento de dados NoSQL(MongoDB)</a></ol>
-
-
+  <b><li>Daqui em diante você pode partir ao nível intermediário, ou fazer o curso a seguir:</li></b>
+  <ol><a href="https://www.datascienceacademy.com.br/course?courseid=python-fundamentos">⚫Curso Gratuito de Python Fundamentos para       Análise de Dados(Carga Horária: 54 Horas):</a></ol>
+  <b><li>Dicas finais? tenha github, linkedin e domínio de inglês técnico:</li></b>
+  ol><a href="https://www.udemy.com/git-e-github-para-iniciantes/">⚫Git/Github para iniciantes Udemy free</a></ol>
+  ol><a href="https://br.udacity.com/course/how-to-use-git-and-github--ud775">⚫Git/Github Udacity</a></ol>
+  ol><a href="https://www.udemy.com/courses/search/?src=ukw&q=ingles&p=1&price=price-free">⚫Aprenda inglês!</a></ol>
