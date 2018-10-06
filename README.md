@@ -57,5 +57,8 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
   <ol><a href="https://www.datascienceacademy.com.br/course?courseid=microsoft-power-bi-para-data-science">⚫Curso Gratuito de Microsoft   Power BI(Carga Horária: 54 Horas)</a></ol>
   <b><li>Em seguida, comece com Python não focado em Data Science:</li></b>
   <ol><a href="https://solyd.com.br/treinamentos/python-basico">⚫Python Básico(Carga Horária: 04 Horas)</a></ol>
+  <b><li>BI, Estatística/Probabilidade, Python e R introduzidos! Agora, banco de dados:</li></b>
+  <ol><a href="https://br.udacity.com/course/sql-for-data-analysis--ud198">⚫SQL para análise de dados</a></ol>
+  <ol><a href="https://br.udacity.com/course/data-wrangling-with-mongodb--ud032">⚫Tratamento de dados NoSQL(MongoDB)</a></ol>
 
 
