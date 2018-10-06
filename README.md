@@ -19,7 +19,7 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
 <ol><a href="https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados">⚫Curso Gratuito de Introdução a Ciência de Dados (Carga Horária: 8 Horas):</a></ol>
 <ol><a href="https://www.datascienceacademy.com.br/course?courseid=inteligencia-artificial-fundamentos">⚫Curso Gratuito de Fundamentos de Inteligência Artificial (Carga Horária: 8 Horas)</a></ol>
 <ol><a href="https://www.datascienceacademy.com.br/course?courseid=microsoft-power-bi-para-data-science">⚫Curso Gratuito de Microsoft Power BI (Carga Horária: 54 Horas)</a></ol>
-<ol><a href="https://www.datascienceacademy.com.br/course?courseid=big-data-fundamentos">⚫Curso Gratuito de Fundamentos de Big Data (Carga Horária: 8 Horas)</a></ol></ul>
+<ol><a href="https://www.datascienceacademy.com.br/course?courseid=big-data-fundamentos">⚫Curso Gratuito de Fundamentos de Big Data (Carga Horária: 8 Horas)</a></ol>
 <ul><h4>🔴Udacity</h4>
 <ol><a href="https://br.udacity.com/course/how-to-use-git-and-github--ud775">⚫como usar  git e github por UDACITY</a></ol>
 <ol><a href="https://br.udacity.com/course/intro-to-data-science--ud359">⚫Introdução à Ciência de Dados</a></ol>
@@ -41,7 +41,7 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
 <ol><a href="https://br.udacity.com/course/data-analysis-and-visualization--ud404
 ">⚫Análise de dados e visualização</a></ol>
 <ol><a href="https://br.udacity.com/course/deep-learning--ud730
-">⚫Deep Learning by Google</a></ol>
+">⚫Deep Learning by Google</a></ol></ul>
   
 <ul><h3>🎲 PROBABILIDADE/ESTATISTICA</h3>
 <h4><ol><a href="https://veduca.org/p/probabilidade-e-estatistica">⚫VEDUCA</a></ol></h4>
@@ -49,4 +49,4 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
 <h4><ol><a href="https://br.udacity.com/course/intro-to-statistics--st101">⚫Udacity Introdução à Estatística</a></ol></h4>
 <h4><ol><a href="https://br.udacity.com/course/intro-to-deive-statistics--ud827">⚫Udacity Introdução à Estatística Descritiva</a></ol></h4>
 <h4><ol><a href="https://br.udacity.com/course/intro-to-inferential-statistics--ud201">⚫Udacity Introdução à Estatística Inferencial</a></ol></h4>
-<h4><ol><a href="https://br.udacity.com/course/statistics--st095">⚫Udacity Estatística</a></ol></h4>
+<h4><ol><a href="https://br.udacity.com/course/statistics--st095">⚫Udacity Estatística</a></ol></h4></ul>
