@@ -42,7 +42,6 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
 <ol><a href="https://br.udacity.com/course/deep-learning--ud730
 ">⚫Deep Learning by Google</a></ol></ul>
 <h4>🔴Coursera</h4>
-<ol><strong>Applied Data Science with Python Specialization:</strong></ol>
 <ol><a href="https://www.coursera.org/learn/python-data-analysis">⚫Introduction to Data Science in Python</a></ol>
 <ol><a href="https://www.coursera.org/learn/python-plotting">⚫Applied Plotting, Charting & Data Representation in Python</a></ol>
 <ol><a href="https://www.coursera.org/learn/python-machine-learning">⚫Applied Machine Learning in Python</a></ol>
