@@ -44,9 +44,9 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
 ">⚫Deep Learning by Google</a></ol></ul>
   
 <h3>🎲 PROBABILIDADE/ESTATISTICA</h3>
-<ul><h4><ol><a href="https://veduca.org/p/probabilidade-e-estatistica">⚫VEDUCA</a></ol></h4>
-<h4><ol><a href="https://pt.khanacademy.org/math/statistcs-probability">⚫KHAN ACADEMY</a></ol></h4>
-<h4><ol><a href="https://br.udacity.com/course/intro-to-statistics--st101">⚫Udacity Introdução à Estatística</a></ol></h4>
-<h4><ol><a href="https://br.udacity.com/course/intro-to-deive-statistics--ud827">⚫Udacity Introdução à Estatística Descritiva</a></ol></h4>
-<h4><ol><a href="https://br.udacity.com/course/intro-to-inferential-statistics--ud201">⚫Udacity Introdução à Estatística Inferencial</a></ol></h4>
-<h4><ol><a href="https://br.udacity.com/course/statistics--st095">⚫Udacity Estatística</a></ol></h4></ul>
+<ul><ol><a href="https://veduca.org/p/probabilidade-e-estatistica">⚫VEDUCA</a></ol>
+<ol><a href="https://pt.khanacademy.org/math/statistcs-probability">⚫KHAN ACADEMY</a></ol>
+<ol><a href="https://br.udacity.com/course/intro-to-statistics--st101">⚫Udacity Introdução à Estatística</a></ol>
+<ol><a href="https://br.udacity.com/course/intro-to-deive-statistics--ud827">⚫Udacity Introdução à Estatística Descritiva</a></ol>
+<ol><a href="https://br.udacity.com/course/intro-to-inferential-statistics--ud201">⚫Udacity Introdução à Estatística Inferencial</a></ol>
+<ol><a href="https://br.udacity.com/course/statistics--st095">⚫Udacity Estatística</a></ol></h4></ul>
