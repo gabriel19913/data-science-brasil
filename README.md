@@ -64,5 +64,5 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
   <ol><a href="https://www.datascienceacademy.com.br/course?courseid=python-fundamentos">⚫Curso Gratuito de Python Fundamentos para       Análise de Dados(Carga Horária: 54 Horas):</a></ol>
   <b><li>Dicas finais? tenha github, linkedin e domínio de inglês técnico:</li></b>
   ol><a href="https://www.udemy.com/git-e-github-para-iniciantes/">⚫Git/Github para iniciantes Udemy free</a></ol>
-  ol><a href="https://br.udacity.com/course/how-to-use-git-and-github--ud775">⚫Git/Github Udacity</a></ol>
-  ol><a href="https://www.udemy.com/courses/search/?src=ukw&q=ingles&p=1&price=price-free">⚫Aprenda inglês!</a></ol>
+  <ol><a href="https://br.udacity.com/course/how-to-use-git-and-github--ud775">⚫Git/Github Udacity</a></ol>
+  <ol><a href="https://www.udemy.com/courses/search/?src=ukw&q=ingles&p=1&price=price-free">⚫Aprenda inglês!</a></ol>
