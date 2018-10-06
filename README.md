@@ -38,8 +38,7 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
 <ol><a href="https://br.udacity.com/course/intro-to-artificial-intelligence--cs271">⚫Introdução à Inteligência Artificial</a></ol>
 <ol><a href="https://br.udacity.com/course/artificial-intelligence--ud954
 ">⚫Inteligência artificial</a></ol>
-<ol><a href="https://br.udacity.com/course/data-analysis-and-visualization--ud404
-">⚫Análise de dados e visualização</a></ol>
+<ol><a href="https://br.udacity.com/course/data-analysis-and-visualization--ud404">⚫Análise de dados e visualização</a></ol>
 <ol><a href="https://br.udacity.com/course/deep-learning--ud730
 ">⚫Deep Learning by Google</a></ol></ul>
 <h4>🔴Coursera</h4>
@@ -77,6 +76,10 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
   
 <h3 id="intermed">👨‍💼 Trilha intermediários(programadores python/R ou BI)</h3>
 <ol>
+  <b><li>🔴Análise de dados:</li></b>
+  <ol><a href="https://br.udacity.com/course/intro-to-data-analysis--ud170">⚫Introdução à Análise de Dados Numpy+Pandas</a></ol>
+  <ol><a href="https://br.udacity.com/course/data-analysis-and-visualization--ud404">⚫Análise de dados e visualização</a></ol>
+  <ol><a href="https://www.datacamp.com/tracks/data-analyst-with-python">⚫Data Analyst with Python - Datacamp</a></ol>
   <b><li>🔴Inteligência Artificial:</li></b>
   <ol><a href="https://www.datascienceacademy.com.br/course?courseid=inteligencia-artificial-fundamentos">⚫Fundamentos IA por DSA</a></ol>
   <ol><a href="https://br.udacity.com/course/intro-to-artificial-intelligence--cs271">⚫Introdução a IA por Udacity</ol></a>
