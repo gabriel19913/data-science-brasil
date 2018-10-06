@@ -73,6 +73,7 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
   <ol><a href="https://www.udemy.com/git-e-github-para-iniciantes/">⚫Git/Github para iniciantes Udemy free</a></ol>
   <ol><a href="https://br.udacity.com/course/how-to-use-git-and-github--ud775">⚫Git/Github Udacity</a></ol>
   <ol><a href="https://www.udemy.com/courses/search/?src=ukw&q=ingles&p=1&price=price-free">⚫Aprenda inglês!</a></ol>
+</ol>
   
 <h3 id="intermed">👨‍💼 Trilha intermediários(programadores python/R ou BI)</h3>
 <ol>
@@ -88,3 +89,4 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
   <ol><a href="https://www.youtube.com/playlist?list=PL4OAe-tL47sbzwP6pWR6NQ5ESOt-Ktrih">⚫Deep Learning com Python em português</a></ol>
   <ol><a href="https://br.udacity.com/course/deep-learning--ud730">⚫Deep Learning by Google</a></ol>
   <ol><a href="https://www.datacamp.com/courses/deep-learning-in-python">⚫Deep Learning by Datacamp</a></ol>
+</ol>
