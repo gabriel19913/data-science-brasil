@@ -9,8 +9,8 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
 <a href="https://join.slack.com/t/datasciencebrazil/shared_invite/enQtNDQ5NTU1ODk5NTA3LTJiYzNmNWI1YTlkODY5Y2ZiZmIyYTQ4ZjYyNTQ1MThlNTk4ZGRhZTAwOGFmOTQyYWYxZDAyNTI4YTNhM2FiYjg">🔵Slack</a><br>
 <a href="">🔵Fórum(breve)</a><br>
 
-<ul><h3>Trilhas</h3>
-<ol>👶 Trilha iniciante(não programadores python/R)</ol>
+<h3>Trilhas</h3>
+<ul><ol>👶 Trilha iniciante(não programadores python/R)</ol>
 <ol>👨‍💼 Trilha intermediários(programadores python/R ou BI)</ol></ul>
 
 <h3>Cursos gratuitos</h3> 
@@ -20,8 +20,8 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
 <ol><a href="https://www.datascienceacademy.com.br/course?courseid=inteligencia-artificial-fundamentos">⚫Curso Gratuito de Fundamentos de Inteligência Artificial (Carga Horária: 8 Horas)</a></ol>
 <ol><a href="https://www.datascienceacademy.com.br/course?courseid=microsoft-power-bi-para-data-science">⚫Curso Gratuito de Microsoft Power BI (Carga Horária: 54 Horas)</a></ol>
 <ol><a href="https://www.datascienceacademy.com.br/course?courseid=big-data-fundamentos">⚫Curso Gratuito de Fundamentos de Big Data (Carga Horária: 8 Horas)</a></ol>
-<ul><h4>🔴Udacity</h4>
-<ol><a href="https://br.udacity.com/course/how-to-use-git-and-github--ud775">⚫como usar  git e github por UDACITY</a></ol>
+<h4>🔴Udacity</h4>
+<ul><ol><a href="https://br.udacity.com/course/how-to-use-git-and-github--ud775">⚫como usar  git e github por UDACITY</a></ol>
 <ol><a href="https://br.udacity.com/course/intro-to-data-science--ud359">⚫Introdução à Ciência de Dados</a></ol>
 <ol><a href="https://br.udacity.com/course/intro-to-statistics--st101">⚫Introdução à Estatística</a></ol>
 <ol><a href="https://br.udacity.com/course/intro-to-deive-statistics--ud827">⚫Introdução à Estatística Descritiva</a></ol>
@@ -43,8 +43,8 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
 <ol><a href="https://br.udacity.com/course/deep-learning--ud730
 ">⚫Deep Learning by Google</a></ol></ul>
   
-<ul><h3>🎲 PROBABILIDADE/ESTATISTICA</h3>
-<h4><ol><a href="https://veduca.org/p/probabilidade-e-estatistica">⚫VEDUCA</a></ol></h4>
+<h3>🎲 PROBABILIDADE/ESTATISTICA</h3>
+<ul><h4><ol><a href="https://veduca.org/p/probabilidade-e-estatistica">⚫VEDUCA</a></ol></h4>
 <h4><ol><a href="https://pt.khanacademy.org/math/statistcs-probability">⚫KHAN ACADEMY</a></ol></h4>
 <h4><ol><a href="https://br.udacity.com/course/intro-to-statistics--st101">⚫Udacity Introdução à Estatística</a></ol></h4>
 <h4><ol><a href="https://br.udacity.com/course/intro-to-deive-statistics--ud827">⚫Udacity Introdução à Estatística Descritiva</a></ol></h4>
