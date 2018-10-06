@@ -66,3 +66,10 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
   <ol><a href="https://www.udemy.com/git-e-github-para-iniciantes/">⚫Git/Github para iniciantes Udemy free</a></ol>
   <ol><a href="https://br.udacity.com/course/how-to-use-git-and-github--ud775">⚫Git/Github Udacity</a></ol>
   <ol><a href="https://www.udemy.com/courses/search/?src=ukw&q=ingles&p=1&price=price-free">⚫Aprenda inglês!</a></ol>
+  
+  <h3 id="intermed">👨‍💼 Trilha intermediários(programadores python/R ou BI)</h3>
+  <ol>
+    <b><li>🔴Machine Learning:</li></b>
+    <ol><a href="https://br.udacity.com/course/intro-to-machine-learning--ud120">⚫Introdução ao Aprendizado de Máquina</a></ol>
+    <ol><a href="https://br.udacity.com/course/machine-learning--ud262">⚫Machine Learning - Supervisionado, Não-Supervisionado e Por Reforço</a></ol>
+    <ol><a href="https://br.udacity.com/course/reinforcement-learning--ud600">⚫Aprendizado por Reforço</a></ol>
