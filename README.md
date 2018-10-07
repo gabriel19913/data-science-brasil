@@ -91,6 +91,7 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
 <ol><a href="https://cognitiveclass.ai/courses/introduction-deep-learning/">⚫Deep Learning Fundamentals</a></ol>
 <ol><a href="https://cognitiveclass.ai/courses/deep-learning-tensorflow/">⚫Deep Learning with TensorFlow</a></ol>
 <ol><a href="https://cognitiveclass.ai/courses/accelerating-deep-learning-gpu/">⚫Accelerating Deep Learning with GPU</a></ol></ul>
+<h4>🔴edX</h4>
   
 <h3>🎲 PROBABILIDADE/ESTATISTICA</h3>
 <ul><ol><a href="https://veduca.org/p/probabilidade-e-estatistica">⚫VEDUCA</a></ol>
