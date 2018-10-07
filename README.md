@@ -42,11 +42,55 @@ Sejam muito bem vindos! Fiquem à vontade para dar fork e pull-request querendo 
 <ol><a href="https://br.udacity.com/course/deep-learning--ud730
 ">⚫Deep Learning by Google</a></ol></ul>
 <h4>🔴Coursera</h4>
+<ul><strong>Applied Data Science with Python Specialization:</strong>
 <ol><a href="https://www.coursera.org/learn/python-data-analysis">⚫Introduction to Data Science in Python</a></ol>
 <ol><a href="https://www.coursera.org/learn/python-plotting">⚫Applied Plotting, Charting & Data Representation in Python</a></ol>
 <ol><a href="https://www.coursera.org/learn/python-machine-learning">⚫Applied Machine Learning in Python</a></ol>
 <ol><a href="https://www.coursera.org/learn/python-text-mining">⚫Applied Text Mining in Python</a></ol>
 <ol><a href="https://www.coursera.org/learn/python-social-network-analysis">⚫Applied Social Network Analysis in Python</a></ol>
+<strong>IBM Data Science Professional Certificate:</strong>
+<ol><a href="https://www.coursera.org/learn/what-is-datascience">⚫What is Data Science</a></ol>
+<ol><a href="https://www.coursera.org/learn/open-source-tools-for-data-science">⚫Open Source tools for Data Science</a></ol>
+<ol><a href="https://www.coursera.org/learn/data-science-methodology">⚫Data Science Methodology</a></ol>
+<ol><a href="https://www.coursera.org/learn/python-for-applied-data-science">⚫Python for Data Science</a></ol>
+<ol><a href="https://www.coursera.org/learn/sql-data-science">⚫Databases and SQL for Data Science</a></ol>
+<ol><a href="https://www.coursera.org/learn/python-for-data-visualization">⚫Data Visualization with Python</a></ol>
+<ol><a href="https://www.coursera.org/learn/data-analysis-with-python">⚫Data Analysis with Python</a></ol>
+<ol><a href="https://www.coursera.org/learn/machine-learning-with-python">⚫Machine Learning with Python</a></ol>
+<ol><a href="https://www.coursera.org/learn/applied-data-science-capstone">⚫Applied Data Science Capstone</a></ol>
+<strong>Genomic Data Science:</strong>
+<ol><a href="https://www.coursera.org/learn/introduction-genomics">⚫Introduction to Genomic Technologies</a></ol>
+<ol><a href="https://www.coursera.org/learn/galaxy-project">⚫Genomic Data Science with Galaxy</a></ol>
+<ol><a href="https://www.coursera.org/learn/python-genomics">⚫Python for Genomic Data Science</a></ol>
+<ol><a href="https://www.coursera.org/learn/dna-sequencing">⚫DNA Sequencing</a></ol>
+<ol><a href="https://www.coursera.org/learn/genomic-tools">⚫Command Line Tools for Genomic Data Science</a></ol>
+<ol><a href="https://www.coursera.org/learn/bioconductor">⚫Bioconductor for Genomic Data Science</a></ol>
+<ol><a href="https://www.coursera.org/learn/statistical-genomics">⚫Statistics for Genomic Data Science</a></ol>
+<ol><a href="https://www.coursera.org/learn/genomic-data-science-project">⚫Genomic Data Science Capstone</a></ol>
+<strong>Executive Data Science:</strong>
+<ol><a href="https://www.coursera.org/learn/data-science-course">⚫Data Science Course</a></ol>
+<ol><a href="https://www.coursera.org/learn/build-data-science-team">⚫Build Data Science Team</a></ol>
+<ol><a href="https://www.coursera.org/learn/managing-data-analysis">⚫Managing Data Analysis</a></ol>
+<ol><a href="https://www.coursera.org/learn/real-life-data-science">⚫Real Life Data Science</a></ol>
+<ol><a href="https://www.coursera.org/learn/executive-data-science-capstone">⚫Executiva Data Science Capstone</a></ol>
+<strong>Advanced Data Science with IBM:</strong>
+<ol><a href="https://www.coursera.org/learn/ds">⚫Fundamentals of Scalable Data Science</a></ol>
+<ol><a href="https://www.coursera.org/learn/advanced-machine-learning-signal-processing">⚫Advanced Machine Learning and Signal Processing</a></ol>
+<ol><a href="https://www.coursera.org/learn/ai">⚫Applied AI with DeepLearning</a></ol>
+<ol><a href="https://www.coursera.org/learn/advanced-data-science-capstone">⚫Advanced Data Science Capstone</a></ol></ul>
+<h4>🔴Cognitiveclass.ai</h4>
+<ul><strong>Data Science Foundations:</strong>
+<ol><a href="https://cognitiveclass.ai/courses/data-science-101/">⚫Introduction to Data Science</a></ol>
+<ol><a href="https://cognitiveclass.ai/courses/data-science-hands-open-source-tools-2/">⚫Data Science Tools</a></ol>
+<ol><a href="https://cognitiveclass.ai/courses/data-science-methodology-2/">⚫Data Science Methodology</a></ol>
+<strong>Applied Data Science with Python:</strong>
+<ol><a href="https://cognitiveclass.ai/courses/python-for-data-science/">⚫Python for Data Science</a></ol>
+<ol><a href="https://cognitiveclass.ai/courses/data-analysis-python/">⚫Data Analysis with Python</a></ol>
+<ol><a href="https://cognitiveclass.ai/courses/data-visualization-with-python/">⚫Data Visualization with Python</a></ol>
+<strong>Deep Learning:</strong>
+<ol><a href="https://cognitiveclass.ai/courses/introduction-deep-learning/">⚫Deep Learning Fundamentals</a></ol>
+<ol><a href="https://cognitiveclass.ai/courses/deep-learning-tensorflow/">⚫Deep Learning with TensorFlow</a></ol>
+<ol><a href="https://cognitiveclass.ai/courses/accelerating-deep-learning-gpu/">⚫Accelerating Deep Learning with GPU</a></ol></ul>
   
 <h3>🎲 PROBABILIDADE/ESTATISTICA</h3>
 <ul><ol><a href="https://veduca.org/p/probabilidade-e-estatistica">⚫VEDUCA</a></ol>
